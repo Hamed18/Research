@@ -1,0 +1,19 @@
+# Predicting depression level based on human 
+activities and feelings: A fuzzy logic-based analysis
+
+- predicts depression levels based on emotions and activities
+- Pearson correlation and R-squared methods used
+- five membership functions (poor, mediocre, average, decent, and good)
+- 94% accuracy
+- google survey form diye data collection
+
+# COVID-19 Fake News Detection using Deep Learning Model:
+- springer. 
+- only abstract
+
+# amdr aro interest ace, AI/deep neural ai domain a apnr sathe discuss krar
+ and janar, amra je domain a thesis krte interested seta apnr research works
+ golor sathe align kore - match kore, so sir amra team 3 jon kob e highly interested apnr
+ supervising a amdr thesis ta korar and amra kob e grateful thkbu sir jodi sir 
+ apni bisoy ta consider krte.
+
